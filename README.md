@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badhon100&label=Profile%20views&color=0e75b6&style=flat" alt="badhon100" /> </p>
 
-- 🔭 I’m currently working on **Meektec IT**
+- 🔭 I’m currently looking for job**
 
 - 👨‍💻 All of my projects are available at [https://badhon100.github.io/](https://badhon100.github.io/)
 
