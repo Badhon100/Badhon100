@@ -6,24 +6,27 @@
 </p>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/badhon100" width="140" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <a href="https://badhon100.github.io/" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:nahiduzzaman.dev@gmail.com">📧 Email</a> •
+  <a href="mailto:badhon.nahiduzzaman@gmail.com">📧 Email</a> •
   <a href="https://fb.com/badhonahmed.nahid/" target="_blank">📘 Facebook</a>
 </p>
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
-
 ## 👨‍💻 About Me
 
-I’m a **Flutter Developer** who loves building **beautiful, fast, and scalable mobile applications**.  
-I focus on writing **clean architecture**, reusable components, and delivering real-world solutions.
+I’m a **Flutter Developer** focused on building **high-quality, scalable mobile applications** for **Android & iOS**.  
+I care deeply about **clean UI**, **performance**, and **maintainable architecture**.
 
-- 🔭 Specializing in **Flutter & Android**
-- 🧠 Strong understanding of **UI/UX & state management**
-- 💬 Ask me about **Flutter, Firebase, Android**
-- 🎮 Fun fact: I love video games
+- 📱 Specialized in **Flutter & Android**
+- 🍎 Experience with **iOS tooling (Xcode)**
+- 🔥 Strong in **Firebase integration**
+- 💬 Ask me about **Flutter, Android, Mobile UI**
+- 🎮 Fun fact: I love playing video games
 
 ---
 
@@ -34,62 +37,58 @@ I focus on writing **clean architecture**, reusable components, and delivering r
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="45"/>
 </p>
 
-### 🎨 UI / Frontend
+### 🛠 Tools & IDEs
 <p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45"/>
-</p>
-
-### 🔧 Backend & Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
 </p>
 
+### 🔧 Backend & Services
+<p>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
+</p>
+
 ---
 
-## 🚀 Daily Workflow
+## 🚀 What I Do Daily
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-
----
-
-## 🌱 Currently Learning
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
-> _(Add 2–3 strong Flutter projects here for maximum impact)_
+> _(Pin these repositories on your GitHub profile for best impact)_
 
-- 🚀 **Flutter E-Commerce App** — Firebase, REST API, Clean Architecture  
-- 📱 **Task Manager App** — State management, offline support  
-- 🎯 **UI Clone Projects** — Pixel-perfect Flutter UI
+- 📱 **Flutter E-Commerce App**  
+  _Flutter • Firebase • REST API_
+
+- 🗂 **Task Management App**  
+  _Clean UI • State Management • Offline Support_
+
+- 🎨 **Flutter UI Collection**  
+  _Pixel-perfect designs & animations_
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badhon100&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhon100" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=badhon100&show_icons=true&hide_title=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhon100" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhon100&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhon100&layout=compact&langs_count=6"/>
 </p>
 
 ---
