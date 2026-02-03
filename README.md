@@ -1,42 +1,103 @@
-
 <h1 align="center">Hi 👋, I'm Nahiduzzaman Badhon</h1>
-<h3 align="center">A passionate Flutter developer from Bangladesh</h3>
+<h3 align="center">Flutter Developer | Mobile App Engineer | Bangladesh 🇧🇩</h3>
 
-<img align="right" alt="Coading" width ="400" src = "https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badhon100&label=Profile%20views&color=0e75b6&style=flat" alt="badhon100" /> </p>
-
-- 🔭 Focusing 
-
-- 👨‍💻 All of my projects are available at [https://badhon100.github.io/](https://badhon100.github.io/)
-
-- 💬 Ask me about **Android, Flutter**
-
-- 📫 How to reach me **badhon.nahiduzzaman@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/badhonahmed.nahid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="badhonahmed.nahid/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=badhon100&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://badhon100.github.io/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:nahiduzzaman.dev@gmail.com">📧 Email</a> •
+  <a href="https://fb.com/badhonahmed.nahid/" target="_blank">📘 Facebook</a>
+</p>
 
-- 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+---
 
-- 🌱 Learning all about:
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-- ⚡️ Fun fact: I love playing video games.
+<img align="right" width="380" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
+## 👨‍💻 About Me
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/badhon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/badhon" /></a></p><br><br>
+I’m a **Flutter Developer** who loves building **beautiful, fast, and scalable mobile applications**.  
+I focus on writing **clean architecture**, reusable components, and delivering real-world solutions.
 
+- 🔭 Specializing in **Flutter & Android**
+- 🧠 Strong understanding of **UI/UX & state management**
+- 💬 Ask me about **Flutter, Firebase, Android**
+- 🎮 Fun fact: I love video games
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=badhon100&" alt="badhon100" /></p>
+---
+
+## 🧰 Tech Stack
+
+### 📱 Mobile Development
+<p>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/>
+</p>
+
+### 🎨 UI / Frontend
+<p>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45"/>
+</p>
+
+### 🔧 Backend & Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+</p>
+
+---
+
+## 🚀 Daily Workflow
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+## 🌱 Currently Learning
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+> _(Add 2–3 strong Flutter projects here for maximum impact)_
+
+- 🚀 **Flutter E-Commerce App** — Firebase, REST API, Clean Architecture  
+- 📱 **Task Manager App** — State management, offline support  
+- 🎯 **UI Clone Projects** — Pixel-perfect Flutter UI
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=badhon100&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhon100" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhon100&layout=compact" />
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p>
+  <a href="https://www.buymeacoffee.com/badhon">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
